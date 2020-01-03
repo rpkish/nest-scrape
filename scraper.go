@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	nestUrl         = "https://home.nest.com"
+	nestUrl         = "https://home.nest.com/login/nest"
 	loginFieldId    = "email"
 	passwordFieldId = "pass"
 	loginButtonId   = "signin"
